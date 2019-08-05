@@ -6,9 +6,11 @@
   
    3.[File Descriptions](#file-descriptions)
    
-   4.[Results](#results)
+   4.[Libraries Used](#libraries-used)
    
-   5.[Licensing, Authors, and Acknowledgements](#licensing,-authors,-acknowledgements)
+   5.[Results](#results)
+   
+   6.[Licensing, Authors, and Acknowledgements](#licensing,-authors,-acknowledgements)
   
 
 # Installation
@@ -29,6 +31,15 @@ Things which matter for Career Satisfaction
 # File Descriptions
 
 There are 3 notebooks available here which contains work related to the above questions. Each notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+
+# Libraries Used
+
+For this project, I used pandas and numpy libraries to manipulate data easily for data analysis task.
+Further, sklearn was used to aplit data, model data and calculate various metrics of the final model.
+
+Matplotlib was mainly used for drawing graphs, for easy demonstration.
+
+collections is used to access data structures for manipulating data.
 
 
 # Results
