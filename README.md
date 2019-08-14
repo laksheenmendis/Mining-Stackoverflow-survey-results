@@ -30,7 +30,7 @@ Things which matter for Career Satisfaction
 
 # File Descriptions
 
-There are 3 notebooks available here which contains work related to the above questions. Each notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+There is only 1 notebook with the name 'Know more about developers'. This contains work related to the above questions in sections. Markdown cells and inline comments, were used to assist in walking through the thought process for individual steps.
 
 # Libraries Used
 
